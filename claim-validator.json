@@ -1,0 +1,8 @@
+{
+  "vehiclePropertyOverrides": {
+    "matchProperty": "type",
+    "matchRegex": "/mbt/",
+    "repProperty": "type",
+    "repValue": "tank"
+  }
+}
