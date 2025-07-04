@@ -2,9 +2,69 @@
   "vehiclePropertyOverrides": [
     {
       "matchProperty": "vehType",
+      "matchRegex": "/apc/",
+      "repProperty": "vehType",
+      "repValue": "apc"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/ifv/",
+      "repProperty": "vehType",
+      "repValue": "apc"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/mgs/",
+      "repProperty": "vehType",
+      "repValue": "tank"
+    },
+    {
+      "matchProperty": "vehType",
       "matchRegex": "/mbt/",
       "repProperty": "vehType",
       "repValue": "tank"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/ah/",
+      "repProperty": "vehType",
+      "repValue": "cas"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/rsv/",
+      "repProperty": "vehType",
+      "repValue": "apc"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/td/",
+      "repProperty": "vehType",
+      "repValue": "atv"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/spa/",
+      "repProperty": "vehType",
+      "repValue": "mortar"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/spaa/",
+      "repProperty": "vehType",
+      "repValue": "aav"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/uh/",
+      "repProperty": "vehType",
+      "repValue": "trans"
+    },
+    {
+  "matchProperty": "name",
+  "matchRegex": "/Loach Scout/",
+  "repProperty": "vehType",
+  "repValue": "trans"
     }
   ]
 }
