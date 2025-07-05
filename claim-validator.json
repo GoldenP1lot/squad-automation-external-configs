@@ -38,9 +38,21 @@
     },
     {
       "matchProperty": "vehType",
+      "matchRegex": "/rsv/",
+      "repProperty": "vehType",
+      "repValue": "tank"
+    },
+    {
+      "matchProperty": "vehType",
       "matchRegex": "/td/",
       "repProperty": "vehType",
-      "repValue": "atv"
+      "repValue": "apc"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/td/",
+      "repProperty": "vehType",
+      "repValue": "tank"
     },
     {
       "matchProperty": "vehType",
@@ -52,13 +64,25 @@
       "matchProperty": "vehType",
       "matchRegex": "/spaa/",
       "repProperty": "vehType",
-      "repValue": "aav"
+      "repValue": "apc"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/spaa/",
+      "repProperty": "vehType",
+      "repValue": "tank"
     },
     {
       "matchProperty": "vehType",
       "matchRegex": "/uh/",
       "repProperty": "vehType",
       "repValue": "trans"
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/uh/",
+      "repProperty": "vehType",
+      "repValue": "transport"
     },
     {
   "matchProperty": "name",
