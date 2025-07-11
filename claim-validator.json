@@ -38,18 +38,6 @@
     },
     {
       "matchProperty": "vehType",
-      "matchRegex": "/rsv/",
-      "repProperty": "vehType",
-      "repValue": "tank"
-    },
-    {
-      "matchProperty": "vehType",
-      "matchRegex": "/td/",
-      "repProperty": "vehType",
-      "repValue": "apc"
-    },
-    {
-      "matchProperty": "vehType",
       "matchRegex": "/td/",
       "repProperty": "vehType",
       "repValue": "tank"
@@ -59,12 +47,6 @@
       "matchRegex": "/spa/",
       "repProperty": "vehType",
       "repValue": "mortar"
-    },
-    {
-      "matchProperty": "vehType",
-      "matchRegex": "/spaa/",
-      "repProperty": "vehType",
-      "repValue": "apc"
     },
     {
       "matchProperty": "vehType",
