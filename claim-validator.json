@@ -44,7 +44,7 @@
     },
     {
       "matchProperty": "vehType",
-      "matchRegex": "/spa/",
+      "matchRegex": "/^spa$/",
       "repProperty": "vehType",
       "repValue": "mortar"
     },
