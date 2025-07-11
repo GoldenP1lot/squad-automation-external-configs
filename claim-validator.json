@@ -79,12 +79,6 @@
       "repValue": "trans"
     },
     {
-      "matchProperty": "vehType",
-      "matchRegex": "/uh/",
-      "repProperty": "vehType",
-      "repValue": "transport"
-    },
-    {
   "matchProperty": "name",
   "matchRegex": "/Loach Scout/",
   "repProperty": "vehType",
