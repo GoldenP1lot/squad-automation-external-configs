@@ -38,21 +38,9 @@
     },
     {
       "matchProperty": "vehType",
-      "matchRegex": "/td/",
-      "repProperty": "vehType",
-      "repValue": "tank"
-    },
-    {
-      "matchProperty": "vehType",
       "matchRegex": "/^spa$/",
       "repProperty": "vehType",
       "repValue": "mortar"
-    },
-    {
-      "matchProperty": "vehType",
-      "matchRegex": "/spaa/",
-      "repProperty": "vehType",
-      "repValue": "tank"
     },
     {
       "matchProperty": "vehType",
