@@ -26,12 +26,6 @@
     },
     {
       "matchProperty": "vehType",
-      "matchRegex": "/ah/",
-      "repProperty": "vehType",
-      "repValue": "cas"
-    },
-    {
-      "matchProperty": "vehType",
       "matchRegex": "/rsv/",
       "repProperty": "vehType",
       "repValue": "apc"
@@ -53,6 +47,12 @@
   "matchRegex": "/mortar/",
   "repProperty": "killTimeout",
   "repValue": 10
+    },
+    {
+      "matchProperty": "vehType",
+      "matchRegex": "/ah/",
+      "repProperty": "vehType",
+      "repValue": "cas"
     },
     {
       "matchProperty": "vehType",
