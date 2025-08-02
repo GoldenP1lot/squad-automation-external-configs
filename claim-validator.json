@@ -31,12 +31,6 @@
       "repValue": "cas"
     },
     {
-  "matchProperty": "vehType",
-  "matchRegex": "/cas/",
-  "repProperty": "killTimeout",
-  "repValue": 10
-    },
-    {
       "matchProperty": "vehType",
       "matchRegex": "/rsv/",
       "repProperty": "vehType",
@@ -65,12 +59,6 @@
       "matchRegex": "/uh/",
       "repProperty": "vehType",
       "repValue": "trans"
-    },
-    {
-  "matchProperty": "vehType",
-  "matchRegex": "/trans/",
-  "repProperty": "killTimeout",
-  "repValue": 10
     },
     {
   "matchProperty": "name",
