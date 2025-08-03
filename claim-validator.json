@@ -66,5 +66,6 @@
   "repProperty": "vehType",
   "repValue": "trans"
     }
-  ]
+  ],
+  "claimAmountExceededWarningMessage": "Duplicated squad!"
 }
