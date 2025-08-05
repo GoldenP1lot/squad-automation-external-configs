@@ -13,6 +13,12 @@
       "repValue": "apc"
     },
     {
+  "matchProperty": "vehType",
+  "matchRegex": "/apc/",
+  "repProperty": "claimRequired",
+  "repValue": true
+    },
+    {
       "matchProperty": "vehType",
       "matchRegex": "/mgs/",
       "repProperty": "vehType",
