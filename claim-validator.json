@@ -13,10 +13,10 @@
       "repValue": "apc"
     },
     {
-  "matchProperty": "vehType",
-  "matchRegex": "/apc/",
-  "repProperty": "claimRequired",
-  "repValue": true
+      "matchProperty": "vehType",
+      "matchRegex": "/apc/",
+      "repProperty": "claimRequired",
+      "repValue": true
     },
     {
       "matchProperty": "vehType",
@@ -43,16 +43,16 @@
       "repValue": "mortar"
     },
     {
-  "matchProperty": "vehType",
-  "matchRegex": "/mortar/",
-  "repProperty": "claimRequired",
-  "repValue": true
+      "matchProperty": "vehType",
+      "matchRegex": "/mortar/",
+      "repProperty": "claimRequired",
+      "repValue": true
     },
     {
-  "matchProperty": "vehType",
-  "matchRegex": "/mortar/",
-  "repProperty": "killTimeout",
-  "repValue": 10
+      "matchProperty": "vehType",
+      "matchRegex": "/mortar/",
+      "repProperty": "killTimeout",
+      "repValue": 10
     },
     {
       "matchProperty": "vehType",
@@ -67,10 +67,10 @@
       "repValue": "trans"
     },
     {
-  "matchProperty": "name",
-  "matchRegex": "/Loach Scout/",
-  "repProperty": "vehType",
-  "repValue": "trans"
+      "matchProperty": "name",
+      "matchRegex": "/Loach Scout/",
+      "repProperty": "vehType",
+      "repValue": "trans"
     }
   ],
   "claimAmountExceededWarningMessage": "Duplicated squad!"
