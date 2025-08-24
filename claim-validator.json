@@ -73,5 +73,6 @@
       "repValue": "trans"
     }
   ],
-  "claimAmountExceededWarningMessage": "Duplicated squad!"
+  "claimAmountExceededWarningMessage": "Duplicated squad!",
+  "squadCreationDelayFromMatchStart": 20
 }
