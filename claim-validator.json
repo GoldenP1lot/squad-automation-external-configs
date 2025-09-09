@@ -74,5 +74,5 @@
     }
   ],
   "claimAmountExceededWarningMessage": "Duplicated squad!",
-  "squadCreationDelayFromMatchStart": 20
+  "squadCreationDelayFromMatchStart": 40
 }
