@@ -2,6 +2,12 @@
   "vehiclePropertyOverrides": [
     {
       "matchProperty": "vehType",
+      "matchRegex": "/./",
+      "repProperty": "killTimeout",
+      "repValue": 10
+    },
+    {
+      "matchProperty": "vehType",
       "matchRegex": "/apc/",
       "repProperty": "vehType",
       "repValue": "apc"
