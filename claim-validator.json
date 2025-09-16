@@ -4,7 +4,7 @@
       "matchProperty": "vehType",
       "matchRegex": "/./",
       "repProperty": "killTimeout",
-      "repValue": 10
+      "repValue": 5
     },
     {
       "matchProperty": "vehType",
@@ -53,12 +53,6 @@
       "matchRegex": "/mortar/",
       "repProperty": "claimRequired",
       "repValue": true
-    },
-    {
-      "matchProperty": "vehType",
-      "matchRegex": "/mortar/",
-      "repProperty": "killTimeout",
-      "repValue": 10
     },
     {
       "matchProperty": "vehType",
